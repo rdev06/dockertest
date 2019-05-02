@@ -1,0 +1,17 @@
+{
+  "name": "simser",
+  "version": "1.0.0",
+  "description": "this is only test server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "simpleServer"
+  ],
+  "author": "Roshan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
